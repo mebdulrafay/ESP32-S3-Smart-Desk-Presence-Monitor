@@ -7,10 +7,10 @@
 #include <WiFiClientSecure.h> // HTTPS ke liye zaroori library
 
 // ==================== CONFIGURATION ====================
-const char* WIFI_SSID     = "G-745";
-const char* WIFI_PASSWORD = "12345678";
+const char* WIFI_SSID     = "99999";
+const char* WIFI_PASSWORD = "000000000";
 
-const char* WEBHOOK_URL   = "https://hook.eu1.make.com/04vbkyqpr711svnjhf79a2kulbs8lcnm";
+const char* WEBHOOK_URL   = "Paste Your Wehbook URL";
 
 const int TRIG_PIN = 5;
 const int ECHO_PIN = 18;
